@@ -1,1 +1,1 @@
-# plugins-jquery-exercicio
+Correções no exercício jQuery EBAC
